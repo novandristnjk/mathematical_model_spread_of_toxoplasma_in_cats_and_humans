@@ -1,0 +1,11 @@
+MIT License
+
+Hak Cipta (c) [2023] [Novandri Sitinjak]
+
+Izin ini diberikan secara gratis, kepada siapa pun yang memperoleh salinan dari perangkat lunak ini dan file dokumentasi terkait (perangkat lunak "Penyebaran Toksoplasmosis pada Populasi Kucing dan Manusia"), untuk mempergunakan "Penyebaran Toksoplasmosis pada Populasi Kucing dan Manusia" tanpa batasan, termasuk, namun tidak terbatas pada, hak untuk menggunakan, menyalin, mengubah, menggabungkan, menerbitkan, mendistribusikan, mensublisensikan, dan/atau menjual salinan dari "Penyebaran Toksoplasmosis pada Populasi Kucing dan Manusia", serta untuk mengizinkan orang yang diberikan "Penyebaran Toksoplasmosis pada Populasi Kucing dan Manusia" ini melakukan hal yang sama, dengan ketentuan sebagai berikut:
+
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua salinan atau bagian penting dari "Penyebaran Toksoplasmosis pada Populasi Kucing dan Manusia".
+
+"Penyebaran Toksoplasmosis pada Populasi Kucing dan Manusia" DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK TAPI TIDAK TERBATAS PADA JAMINAN KEPEMILIKAN, KESESUAIAN UNTUK TUJUAN TERTENTU, DAN TIDAK TERDAPAT PELANGGARAN. DALAM KEADAAN APA PUN PARA PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN ATAU LAINNYA YANG BERASAL DARI, ATAU DIKAITKAN DENGAN, PENGGUNAAN "Penyebaran Toksoplasmosis pada Populasi Kucing dan Manusia".
+
+Dalam proyek ini, kami menggunakan lisensi MIT untuk memberikan izin kepada pengguna untuk menggunakan, menyalin, dan memodifikasi proyek secara bebas dengan syarat tetap menjaga pemberitahuan hak cipta dan izin di dalam setiap salinan. Meskipun tidak diwajibkan oleh lisensi, kami menyarankan pengguna untuk menggunakan model ini dengan bijak dan bertanggung jawab.
