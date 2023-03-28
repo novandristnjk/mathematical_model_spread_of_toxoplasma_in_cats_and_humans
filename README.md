@@ -5,7 +5,7 @@ Cara Menggunakan
 Untuk menggunakan model ini, pengguna hanya perlu mengunduh kode sumber dan menjalankannya pada lingkungan Matlab. Pengguna dapat menyesuaikan parameter seperti tingkat penyebaran penyakit dan tingkat pemulihan untuk memodelkan berbagai skenario penyebaran penyakit.
 
 Teknologi yang Digunakan
-Proyek ini dibangun menggunakan bahasa pemrograman Matlab.
+Proyek ini dibangun menggunakan bahasa pemrograman Matlab. Anda dapat membaca proyek ini secara lengkap di https://journal.formosapublisher.org/index.php/fjst/article/download/2855/2738
 
 LICENSE.txt
 
